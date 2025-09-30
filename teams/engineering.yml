@@ -39,3 +39,5 @@ team_settings:
       policy_ids:
         - 406
 software:
+  packages:
+    - path: ..lib/macos/software/zoom.yml
