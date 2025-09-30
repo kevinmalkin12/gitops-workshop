@@ -25,12 +25,10 @@ org_settings:
   host_expiry_settings:
     host_expiry_enabled: true
     host_expiry_window: 30
-  org_settings:
-    org_info:
-      org_name: <Kdog's Awesome Business>
-  org_settings:
-    webhook_settings:
-      activities_webhook:
-        enable_activities_webhook: true
-        destination_url: https://example.com
-        
+  org_info:
+    org_name: <Kdog's Awesome Business>
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://example.com
+
