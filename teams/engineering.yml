@@ -40,4 +40,4 @@ team_settings:
         - 406
 software:
   packages:
-    - path: ..lib/macos/software/zoom.yml
+    - path: ../lib/macos/software/zoom.yml
