@@ -15,6 +15,7 @@ controls:
   macos_settings:
     custom_settings:
       - path: ../lib/macos/configuration-profiles/bluetooth.mobileconfig
+      - path: ../lib/macos/configuration-profiles/passcode-settings-ddm.json
   scripts:
     - path: ../lib/macos/scripts/remove-zoom-artifacts.script.sh
     - path: ../lib/macos/scripts/set-timezone.script.sh
