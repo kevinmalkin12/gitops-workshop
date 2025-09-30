@@ -22,7 +22,7 @@ controls:
       - path: ../lib/macos/configuration-profiles/bluetooth.mobileconfig
       - path: ../lib/macos/configuration-profiles/passcode-settings-ddm.json
   scripts:
-    - path: ../lib/windows/scripts/set-dns-cloudflare.sh
+    - path: ../lib/macos/scripts/set-dns-cloudflare.sh
     - path: ../lib/macos/scripts/remove-zoom-artifacts.script.sh
     - path: ../lib/macos/scripts/set-timezone.script.sh
 team_settings:
